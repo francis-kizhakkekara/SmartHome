@@ -1,0 +1,8 @@
+{
+    "mysql_data": {
+        "host": "localhost",
+        "user": "sammy",
+        "password": "password",
+        "database": "smart_home"
+    }
+}
